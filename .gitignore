@@ -34,7 +34,7 @@ msbuild.wrn
 cross/rootfs/
 
 # Visual Studio 2015
-#.vs/
+.vs/
 
 ### OSX ###
 
