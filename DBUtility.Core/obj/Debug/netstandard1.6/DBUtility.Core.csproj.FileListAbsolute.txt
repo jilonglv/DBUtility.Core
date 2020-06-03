@@ -1,0 +1,4 @@
+E:\Code\github\DBUtility.Core\DBUtility.Core\obj\Debug\netstandard1.6\DBUtility.Core.csprojAssemblyReference.cache
+E:\Code\github\DBUtility.Core\DBUtility.Core\obj\Debug\netstandard1.6\DBUtility.Core.AssemblyInfoInputs.cache
+E:\Code\github\DBUtility.Core\DBUtility.Core\obj\Debug\netstandard1.6\DBUtility.Core.AssemblyInfo.cs
+E:\Code\github\DBUtility.Core\DBUtility.Core\obj\Debug\netstandard1.6\DBUtility.Core.csproj.CoreCompileInputs.cache
