@@ -1,9 +1,0 @@
-E:\Code\github\DBUtility.Core\DBUtility.Core\bin\Debug\netstandard2.0\DBUtility.Core.deps.json
-E:\Code\github\DBUtility.Core\DBUtility.Core\bin\Debug\netstandard2.0\DBUtility.Core.dll
-E:\Code\github\DBUtility.Core\DBUtility.Core\bin\Debug\netstandard2.0\DBUtility.Core.pdb
-E:\Code\github\DBUtility.Core\DBUtility.Core\obj\Debug\netstandard2.0\DBUtility.Core.csprojAssemblyReference.cache
-E:\Code\github\DBUtility.Core\DBUtility.Core\obj\Debug\netstandard2.0\DBUtility.Core.AssemblyInfoInputs.cache
-E:\Code\github\DBUtility.Core\DBUtility.Core\obj\Debug\netstandard2.0\DBUtility.Core.AssemblyInfo.cs
-E:\Code\github\DBUtility.Core\DBUtility.Core\obj\Debug\netstandard2.0\DBUtility.Core.csproj.CoreCompileInputs.cache
-E:\Code\github\DBUtility.Core\DBUtility.Core\obj\Debug\netstandard2.0\DBUtility.Core.dll
-E:\Code\github\DBUtility.Core\DBUtility.Core\obj\Debug\netstandard2.0\DBUtility.Core.pdb
